@@ -90,4 +90,7 @@ filtering)
 
 P.S. I did all the assignment in Octave
 
+### certificate
+https://www.coursera.org/account/accomplishments/verify/NRLZZXRRCT5W
+
 ***Thank you Andrew Ng***
